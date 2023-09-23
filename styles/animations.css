@@ -14,10 +14,10 @@
 */
 
 @keyframes movement {
-    from {
-      inset-inline-start: -19px;
-    }
-    to {
-      inset-inline-start: -24px;
-    }
+  from {
+    inset-inline-start: -19px;
   }
+  to {
+    inset-inline-start: -24px;
+  }
+}
