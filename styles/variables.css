@@ -3,5 +3,10 @@
   --font-weight: 400;
   --background-color: #fff;
   --accent-color: #000;
-  --accent-font: 'PressStart2P', fantasy;
+  --accent-font: "PressStart2P", monospace, sans-serif;
+  --background-color_1: #d3d3d3;
+  --background-color_2: #e7e7e7;
+  --background-color_3: #1a1a1a;
+  --card-weight: 700;	
+  --button-hover: #FFF;
 }
