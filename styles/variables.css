@@ -4,9 +4,14 @@
   --background-color: #fff;
   --accent-color: #000;
   --accent-font: "PressStart2P", monospace, sans-serif;
-  --background-color_1: #d3d3d3;
-  --background-color_2: #e7e7e7;
-  --background-color_3: #1a1a1a;
+  --background: repeating-linear-gradient(
+      90deg,
+      #d3d3d3 0px 2px,
+      transparent 2px 4px
+    ),
+    repeating-linear-gradient(#d3d3d3 0px 2px, transparent 2px 4px),
+    linear-gradient(#e7e7e7 0.01%, #1a1a1a);
   --card-weight: 700;
-  --button-hover: #FFF;
+  --button-hover: #fff;
+  --heart-fill-color: #ff0000;
 }
