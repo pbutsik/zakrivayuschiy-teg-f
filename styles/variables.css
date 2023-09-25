@@ -1,9 +1,9 @@
 :root {
-  --common-font: "Inter-Variable", monospace, sans-serif;
+  --common-font: "Inter-Variable", sans-serif;
   --font-weight: 400;
   --background-color: #fff;
   --accent-color: #000;
-  --accent-font: "PressStart2P", monospace, sans-serif;
+  --accent-font: "PressStart2P", fantasy;
   --background: repeating-linear-gradient(
       90deg,
       #d3d3d3 0px 2px,
